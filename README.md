@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shoaib Javeed 👋 
+### Backend Engineer | System Architect | Python Specialist
 
-<!--
-**shoaib-javeed-05/shoaib-javeed-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance, scalable backend systems with a focus on engineering precision and latency reduction.
 
-Here are some ideas to get you started:
+🚀 **[Explore My Engineering Portfolio →](https://shoaibjaveed.me)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Engineering Stack
+- **Backend:** Python (FastAPI, Flask, Django), Node.js
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Infrastructure:** PostgreSQL, Redis, Docker, GitHub Actions
+- **Performance:** System Monitoring, Latency Optimization, RBAC
+
+### 📊 Technical Highlights
+- **Architecture:** Designed real-time monitoring systems with a focus on 30% latency reduction.
+- **Data:** Managed high-throughput delivery for concurrent data sources.
+- **Security:** Implemented robust authentication and RBAC protocols across distributed systems.
+
+---
+
+📫 **Let's Connect**
+- **Website:** [shoaibjaveed.me](https://shoaibjaveed.me)
+- **LinkedIn:** [linkedin.com/in/your-profile]
+- **Email:** [your-email@example.com]
+
+*"Engineering is about solving the bottlenecks that others haven't noticed yet."*
