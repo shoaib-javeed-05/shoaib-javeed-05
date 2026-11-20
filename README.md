@@ -1,28 +1,28 @@
-# Hi, I'm Shoaib Javeed 👋 
-### Backend Engineer | System Architect | Python Specialist
+# Hi, I'm Shoaib Javeed 👋
+### Backend engineer · B.S. Computer Science, University of the Punjab (2027)
 
-I build high-performance, scalable backend systems with a focus on engineering precision and latency reduction.
+I build backend systems and the tests and evaluation tooling that show whether they work. I'm interested in how developers and AI coding agents can work together reliably, and in how to measure it.
 
-🚀 **[Explore My Engineering Portfolio →](https://shoaibjaveed.me)**
+🚀 **[Portfolio](https://shoaibjaveed.me)**
 
 ---
 
-### 🛠️ Engineering Stack
+### 📌 Featured project: [OpenTransit Radar](https://github.com/shoaib-javeed-05/opentransit-radar)
+Live GPS tracking and arrival-time estimates for privately operated buses in Lahore. Final-year project in a team of three; I originated and lead it and own the backend, the geospatial pipeline and the testing.
+FastAPI · PostgreSQL/PostGIS · row-level security for multi-tenant isolation · Flutter · GitHub Actions
+
+### 🧪 Experience
+- **AI Engineer intern, Hubble42 Inc. (2026):** built Python grading and validation utilities that checked agentic benchmark task outputs and execution traces against task-specific criteria.
+
+### 🛠️ Stack
 - **Backend:** Python (FastAPI, Flask, Django), Node.js
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Infrastructure:** PostgreSQL, Redis, Docker, GitHub Actions
-- **Performance:** System Monitoring, Latency Optimization, RBAC
-
-### 📊 Technical Highlights
-- **Architecture:** Designed real-time monitoring systems with a focus on 30% latency reduction.
-- **Data:** Managed high-throughput delivery for concurrent data sources.
-- **Security:** Implemented robust authentication and RBAC protocols across distributed systems.
+- **Data:** PostgreSQL, PostGIS, Redis
+- **Frontend:** React, TypeScript, Tailwind CSS, Flutter
+- **Tooling:** Docker, GitHub Actions, pytest
 
 ---
 
-📫 **Let's Connect**
+📫 **Contact**
 - **Website:** [shoaibjaveed.me](https://shoaibjaveed.me)
-- **LinkedIn:** [linkedin.com/in/your-profile]
-- **Email:** [your-email@example.com]
-
-*"Engineering is about solving the bottlenecks that others haven't noticed yet."*
+- **LinkedIn:** [linkedin.com/in/shoaib-javeed05](https://www.linkedin.com/in/shoaib-javeed05)
+- **Email:** [dev@shoaibjaveed.me](mailto:dev@shoaibjaveed.me)
