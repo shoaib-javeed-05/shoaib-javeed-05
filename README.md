@@ -1,34 +1,36 @@
-# Hi, I'm Shoaib Javeed 👋
-### Backend engineer · B.S. Computer Science, University of the Punjab (2027)
+## Hi, I'm Shoaib Javeed 👋
 
-I build backend systems and the tests and evaluation tooling that show whether they work. I'm interested in how developers and AI coding agents can work together reliably, and in how to measure it.
+**Backend & AI Engineer (Python)** · B.S. Computer Science, University of the Punjab · Lahore, Pakistan
 
-🚀 **[Portfolio](https://shoaibjaveed.me)**
+I build Python backends with FastAPI, PostgreSQL and PostGIS, and the tests that show they work. As an AI Engineer intern at Hubble42, I built Python tools that grade and validate benchmark tasks for AI agents. I'm open to backend and AI engineering roles, and I'm applying for master's and Ph.D. positions in computer science from 2027.
 
----
+🌐 **Portfolio: [shoaibjaveed.me](https://shoaibjaveed.me)** · 📄 [Resume (PDF)](https://shoaibjaveed.me/resume/Shoaib_Javeed_Resume.pdf) · 🎓 [Graduate study](https://shoaibjaveed.me/graduate-study/)
 
 ### 📌 Featured projects
 
-**[OpenTransit Radar](https://github.com/shoaib-javeed-05/opentransit-radar)**
-Live GPS tracking and arrival-time estimates for privately operated buses in Lahore. Final-year project in a team of three; I originated and lead it and own the backend, the geospatial pipeline and the testing.
-FastAPI · PostgreSQL/PostGIS · row-level security for multi-tenant isolation · Flutter · GitHub Actions
+**[OpenTransit Radar](https://github.com/shoaib-javeed-05/opentransit-radar)**: live GPS tracking and arrival-time estimates for privately operated buses in Lahore. Final-year design project in a team of three; I started it and lead the backend, the geospatial pipeline and the testing.
+FastAPI · PostgreSQL/PostGIS · WebSockets · row-level security tested in CI · Flutter
+[Case study](https://shoaibjaveed.me/projects/opentransit-radar/) · [Live service](https://opentransit-randar1.onrender.com) · [Demo video](https://youtu.be/f8fbaKTtuMM)
 
-**[My Local Shop](https://github.com/shoaib-javeed-05/my-local-shop-pos)**
-Offline-first point-of-sale, inventory and back-office app for small retail shops, sold to and used by a mobile-network franchise retail shop in Pakistan. Checkout with stock checks and discounts, store credit, returns, suppliers and purchase orders, role-based PIN login, sales dashboard with PDF reports, and an audit log.
-Python · Flet · SQLite · ReportLab · PyInstaller · [▶ Demo video](https://youtu.be/WT2TpGqce9U) · [Live demo](https://offline-pos-r3g6.onrender.com)
+**[My Local Shop](https://github.com/shoaib-javeed-05/my-local-shop-pos)**: offline-first point-of-sale and inventory app for small retail shops, sold to and used by a mobile-network franchise retail shop in Pakistan.
+Python · Flet · SQLite · ReportLab
+[Case study](https://shoaibjaveed.me/projects/my-local-shop/) · [Live demo](https://offline-pos-r3g6.onrender.com) · [Demo video](https://youtu.be/WT2TpGqce9U)
 
 ### 🧪 Experience
-- **AI Engineer intern, Hubble42 Inc. (2026):** built Python grading and validation utilities that checked agentic benchmark task outputs and execution traces against task-specific criteria.
 
-### 🛠️ Stack
-- **Backend:** Python (FastAPI, Flask, Django), Node.js
-- **Data:** PostgreSQL, PostGIS, Redis, SQLite
-- **Frontend:** React, TypeScript, Tailwind CSS, Flutter, Flet
-- **Tooling:** Docker, GitHub Actions, pytest
+- **AI Engineer Intern, Hubble42 Inc.** (Aug – Oct 2026): built Python grading and validation utilities that check task outputs and execution traces for agentic benchmark tasks.
+- **Machine Learning Intern, Webevis Technologies** (Aug 2026): trained and evaluated supervised classification and regression models with scikit-learn.
+- **Python Virtual Intern, CodeAlpha** (Jul – Aug 2025).
 
----
+### 🛠️ Skills
 
-📫 **Contact**
-- **Website:** [shoaibjaveed.me](https://shoaibjaveed.me)
-- **LinkedIn:** [linkedin.com/in/shoaib-javeed05](https://www.linkedin.com/in/shoaib-javeed05)
-- **Email:** [dev@shoaibjaveed.me](mailto:dev@shoaibjaveed.me)
+- **Programming:** Python, C++, JavaScript
+- **Backend:** FastAPI, Flask, REST APIs, WebSockets, SQLAlchemy
+- **Databases:** PostgreSQL, PostGIS, GeoAlchemy2, MySQL, SQLite
+- **Testing and DevOps:** pytest, GitHub Actions, Docker, Git, Linux
+- **Apps, data and ML:** Flet, Flutter/Dart, Pandas, NumPy, scikit-learn, OpenCV
+
+### 📫 Contact
+
+[dev@shoaibjaveed.me](mailto:dev@shoaibjaveed.me) · [LinkedIn](https://www.linkedin.com/in/shoaib-javeed05) · [YouTube](https://www.youtube.com/@Shoaib-Javeed-05)
+For master's and Ph.D. positions: [shoaibjaveed@gigccl.edu.pk](mailto:shoaibjaveed@gigccl.edu.pk)
